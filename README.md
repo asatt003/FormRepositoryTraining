@@ -5,4 +5,6 @@
 1. Add your changes, commit, and push to the `master` branch.
 1. Refresh your forked GitHub repository to see the reflected changes.
 
-Completed
+<!--- Delete this line
+CHANGE ME
+Delete this line -->
