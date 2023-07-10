@@ -6,4 +6,4 @@
 1. Refresh your forked GitHub repository to see the reflected changes.
 
 
-Completed
+Completed. Added work from Visual Studio Code, then pushed to master.
