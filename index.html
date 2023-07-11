@@ -1,18 +1,21 @@
-  <label>Email: <input type="text" name="Email" value=""></label><br>
+<!DOCTYPE html>
+<html lang=en>
+<form>
+
+<label>Email: <input type="text" name="Email" value=""></label><br>
   <label>Password: <input type="text" name="Password" value=""></label><br>
   <label>Username: <input type="text" name="Username" value=""></label><br>
 
   <fieldset>
-    <legend>Which location are you at?</legend>
-    <input id="location-austin" type="radio" name="location" value="Austin">
-    <label for="location-austin">Austin</label><br>
-
-    <input id="location-denver" type="radio" name="location" value="Denver">
-    <label for="location-denver">Denver</label><br>
-
-    <input id="location-nyc" type="radio" name="location" value="New York">
-    <label for="location-nyc">New York</label><br>
+    <legend>Subscription</legend>
+	<input type="radio" name="subscription" value="Enterprise"> Enterprise<br>
+	<input type="radio" name="subscription" value="Pro"> Pro<br>
+	<input type="radio" name="subscription" value="Free"> Free<br>
   </fieldset>
 
-  <input type="checkbox" name="Remember Me" value=""> Remember Me
-  
+  <input type="checkbox" name="Remember Me" value=""> Remember Me<br>
+
+  <button type="submit">Submit</button><br>
+
+</form>
+</html>
